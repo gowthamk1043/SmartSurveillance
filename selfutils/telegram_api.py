@@ -4,8 +4,8 @@ import os
 
 
 
-TOKEN_KEY = "6579725816:AAHE6KN1Tei0YiaedmFLth-VUPxWez5M7ZY"
-chatid = "-4067642204"
+TOKEN_KEY = "7168947738:AAH8UJACWXjoW8oxgQGM_OlL3d7N3pFkAw8"
+chatid = "-4151314735"
 
 
 def send_image(file_name):
